@@ -1,0 +1,1 @@
+<input type="{{ $type }}" name="{{ $name }}"  placeholder="{{ $placeholder }}" value="{{ $value }}" id="{{ $id }}"/>
